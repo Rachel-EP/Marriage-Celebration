@@ -1,0 +1,262 @@
+.clr{clear:both}
+body{
+    margin: 0
+}
+.topnavFlorida{
+    background-color: #b8b7ec;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 2px rgb(70, 70, 172) solid; 
+}
+.topnavFlorida a{
+    float: center;
+    color: #26274b;
+    text-align: center;
+    padding: 1% 4.5%;
+    text-decoration: none;
+    font-size: 1.3vw;
+    font-family: "Palatino Linotype";
+    font-weight:bold;
+}
+.topnavFlorida a:hover{
+    color:#375a81
+}
+.topnavFlorida{
+    position:fixed; 
+    top:0;
+    width: 100%;
+    padding: 1%;
+}
+.topnavCanada{
+    background-color: #b8b7ec;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 2px rgb(70, 70, 172) solid; 
+}
+.topnavCanada a{
+    float: center;
+    color: #26274b;
+    text-align: center;
+    padding: 1% 4.5%;
+    text-decoration: none;
+    font-size: 1.3vw;
+    font-family: "Palatino Linotype";
+    font-weight:bold;
+}
+.topnavCanada a:hover{
+    color:#375a81
+}
+.topnavCanada{
+    position:fixed; 
+    top:0;
+    width: 100%;
+    padding: 1%;
+}
+
+.PlacesToStaySideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.PlacesToStaySideBar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: normal;
+    color:#26274b;
+    display: block;
+}
+.PlacesToStaySideBar a:hover{
+    color:#375a81;
+}
+.ItinerarySideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.ItinerarySideBar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: normal;
+    color:#333350;
+    display: block;
+}
+.ItinerarySideBar a:hover{
+    color:#375a81;
+}
+.TransportationSideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.TransportationSideBar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: normal;
+    color:#333350;
+    display: block;
+}
+.TransportationSideBar a:hover{
+    color:#375a81;
+}
+.FloralBackground{
+    border-bottom: 2px #b8b7ec solid;
+    margin: -17% 0px -4px 0px;
+}
+#GOTrain{
+    border-bottom: 2px #b8b7ec solid;
+    margin: -2% 0px -4px 0px;
+}
+#ItineraryPhotoWide{
+    border-bottom: 2px #b8b7ec solid;
+    margin: -2% 0px -4px 0px;
+}
+#HotelRoomImage{
+    border-bottom:2px #b8b7ec solid;
+    margin: 3% 0px -4px 0px;
+}
+.caution-sign{
+    text-indent: 0;
+    text-align: center;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    margin: 1% 10% 1% 12%;
+    color: rgb(197, 106, 2)
+}
+h1{
+    text-align: center;
+    background-color:#b8b7ec; 
+    color: #4b4b4b; 
+    font-family: "Palatino Linotype";
+    padding: 1%;
+    margin:0px;
+    border-bottom: 2px #375a81 solid;
+}
+h3{
+    text-align: left;
+    color: #4b4b4b;
+    font-family: "Palatino Linotype";
+    margin: 10px 10% 10px 13%;
+}
+hr{
+    margin: 20px 10% 20px 13%;
+}
+p{
+    text-indent: 30px;
+    font-family:"Palatino Linotype";  
+    padding:1%; 
+    margin:2px 8% 2px 13%; 
+    font-size:large; 
+    line-height: 27px;
+}
+h2{
+    background-color:#b8b7ec; color: #4b4b4b; 
+    font-family: "Palatino Linotype"; 
+    font-weight: bold; 
+    text-align:center; 
+    padding:3px; 
+    border:1px lightgray solid; 
+    margin:5px 10% 5px 13%;
+}
+h4{ 
+    color: #302f2f; 
+    font-family: "Palatino Linotype"; 
+    font-weight: bold; 
+    text-align: left;  
+    margin:5px 10% 5px 13%;
+    font-size: large;
+}
+li{
+    font-family:"Palatino Linotype";  
+    font-size:large; 
+    line-height: 27px;
+}
+ol{
+    margin: 0% 8% 0% 13%;
+}
+ul{
+    margin: 0% 8% 0% 13%;
+}
+a:hover{
+    color:#375a81
+}
+#HolidayInnImage1{
+    float:right;
+    margin: 8px 10% 8px 15px;
+    border: 2px #b8b7ec solid;
+    width:40%;
+}
+#MonteCarloInnImage1{
+    float:right;
+    margin: 8px 10% 8px 15px;
+    border: 2px #b8b7ec solid;
+    width: 40%;
+}
+#MonteCarloInn{
+    margin: 8% 10% 8px 13%;
+}
+#AirBnB{
+    margin: 8% 10% 8px 13%;
+}
+#PartyBus{
+    margin: 5px 24%;
+    border: 7px #b8b7ec solid;
+}
+#VenueRoom1{
+    float:right;
+    width: 40%;
+    border: 2px #b8b7ec solid;
+    margin: 5px 10% 5px 5px;
+}
+#VenueRoom2{
+    float:left;
+    width: 30%;
+    border: 2px #b8b7ec solid;
+    margin: 5px 40px 5px 13%;
+}
+#VenueRoom3{
+    float:right;
+    width: 25%;
+    border: 2px #b8b7ec solid;
+    margin: 5px 10% 5px 5px;
+}
+.return{
+    text-align: center;
+    text-decoration: none;
+}
+.return a:hover{
+    color:#375a81
+}
+.return a{
+    text-decoration: none;
+    color:#333350
+}
+#copyright{
+    font-weight: normal;
+    font-size: normal;
+    font-family: "Palatino Linotype";
+    margin: 30px 10%;
+}
+#copyrightCelebration{
+    font-weight: normal;
+    font-size: normal;
+    font-family: "Palatino Linotype";
+    margin: 30px 10%;
+    text-align: center;
+}

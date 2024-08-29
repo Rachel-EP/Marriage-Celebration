@@ -1,0 +1,75 @@
+.clr{clear:both}
+body{
+    margin: 0
+}
+
+body{
+    background-image:url('../Images/FloralBackground.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+h1{
+    color: rgb(48, 35, 35);
+    font-size: 40px;
+}
+#Rachel{
+    text-align:center;
+    font-family: "Palatino Linotype";
+    padding: 1%;
+    margin:10% 30% 20px 30%;
+    background-color:#9da8a0; 
+    padding: 1% 3%;
+    border: 2px #737774 solid;
+}
+#and{
+    text-align:center;
+    font-family: "Palatino Linotype";
+    padding: 1%;
+    margin:20px 40% 20px 40%;
+    background-color:#9da8a0; 
+    padding: 1% 3%;
+    border: 2px #737774 solid;
+}
+#Steven{
+    text-align:center;
+    font-family: "Palatino Linotype";
+    padding: 1%;
+    margin:20px 30% 20px 30%;
+    background-color:#9da8a0; 
+    padding: 1% 3%;
+    border: 2px #737774 solid;
+}
+#Canadabutton{
+    float:left;
+    text-align:left;
+    position:bottom;
+    margin:20px 0px 0px 10%;
+    background-color:#9da8a0; 
+    padding: 1% 3%;
+    border: 2px #737774 solid;
+}
+#Canadabutton a{
+    color:rgb(48, 35, 35);
+    text-decoration: none;
+}
+#Canadabutton a:hover{
+    color:rgb(78, 58, 58);
+}
+#Floridabutton{
+    float:right;
+    text-align:right;
+    position: bottom;
+    margin: 20px 10% 0px 0px;
+    background-color:#9da8a0; 
+    padding: 1% 3%;
+    border: 2px #737774 solid;
+}
+#Floridabutton a{
+    color:rgb(48, 35, 35);
+    text-decoration: none;
+}
+#Floridabutton a:hover{
+    color:rgb(78, 58, 58);
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Celebration Index Main
+        </title>
+        <link rel="stylesheet" type="text/css" href="CSS/CelebrationMainPage.css">
+        <div class="clr"></div>
+    </head>
+    <body>
+
+        <script id="pin">
+            var password = "3725";
+            (function passcodeprotect() {
+                var passcode = prompt("Enter Pin");
+                while (passcode !== password) {
+                    alert ("Incorrect Pin");
+                    return passcodeprotect();
+                }
+            }());
+            alert('Welcome to our Celebration Page!');
+        </script>
+
+
+        <h1 id="Rachel">
+            Rachel
+        </h1>
+        <h1 id="and">
+            &
+        </h1>
+        <h1 id="Steven">
+            Steven
+        </h1>
+        <h1 id="Canadabutton">
+            <a href="CelebrationIndexCanada.html">Canada</a>
+        </h1>
+        <h1 id="Floridabutton">
+            <a href="CelebrationIndexFlorida.html">Florida</a>
+        </h1>
+    </body>
+</html>
