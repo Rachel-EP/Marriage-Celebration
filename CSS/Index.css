@@ -75,6 +75,26 @@ body{
 .PlacesToStaySideBar a:hover{
     color:#375a81;
 }
+.PlacestoStayCanadaSideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.PlacestoStayCanadaSideBar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: normal;
+    color:#26274b;
+    display: block;
+}
+.PlacestoStayCanadaSideBar a:hover{
+    color:#375a81;
+}
 .ItinerarySideBar{
     width: 130px;
     position: fixed;
@@ -220,21 +240,46 @@ a:hover{
 }
 #VenueRoom1{
     float:right;
-    width: 40%;
+    width: 50%;
     border: 2px #a5c0e9 solid;
-    margin: 5px 10% 5px 5px;
+    margin: 5px 10% 5px 10px;
 }
 #VenueRoom2{
     float:left;
-    width: 30%;
+    width: 32%;
     border: 2px #a5c0e9 solid;
-    margin: 5px 40px 5px 13%;
+    margin: 5px 25px 5px 13%;
 }
 #VenueRoom3{
     float:right;
-    width: 25%;
+    width: 30%;
     border: 2px #a5c0e9 solid;
-    margin: 5px 10% 5px 5px;
+    margin: 3px 10% 5px 5px;
+}
+#BestWestern{
+    float: right;
+    border: 2px #a5c0e9 solid;
+    margin: 3px 10% 5px 5px;
+}
+#LaundryRooms{
+    float: left;
+    border: 2px #a5c0e9 solid;
+    margin: 3px 5px 5px 13%;
+}
+#Travelodge{
+    float: right;
+    border: 2px #a5c0e9 solid;
+    margin: 3px 10% 5px 5px;
+}
+#HiltonGarden{
+    float: left;
+    border: 2px #a5c0e9 solid;
+    margin: 3px 5px 5px 13%;
+}
+#CambridgeHotel{
+    float: right;
+    border: 2px #a5c0e9 solid;
+    margin: 3px 10% 5px 5px;
 }
 .return{
     text-align: center;
