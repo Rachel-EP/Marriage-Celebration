@@ -3,7 +3,7 @@ body{
     margin: 0
 }
 .topnavFlorida{
-    background-color: #b8b7ec;
+    background-color: #a5c0e9;
     overflow: hidden;
     margin: 0px;
     padding: 0px;
@@ -29,7 +29,7 @@ body{
     padding: 1%;
 }
 .topnavCanada{
-    background-color: #b8b7ec;
+    background-color: #a5c0e9;
     overflow: hidden;
     margin: 0px;
     padding: 0px;
@@ -116,19 +116,19 @@ body{
     color:#375a81;
 }
 .FloralBackground{
-    border-bottom: 2px #b8b7ec solid;
+    border-bottom: 2px #a5c0e9 solid;
     margin: -17% 0px -4px 0px;
 }
 #GOTrain{
-    border-bottom: 2px #b8b7ec solid;
+    border-bottom: 2px #a5c0e9 solid;
     margin: -2% 0px -4px 0px;
 }
 #ItineraryPhotoWide{
-    border-bottom: 2px #b8b7ec solid;
+    border-bottom: 2px #a5c0e9 solid;
     margin: -2% 0px -4px 0px;
 }
 #HotelRoomImage{
-    border-bottom:2px #b8b7ec solid;
+    border-bottom:2px #a5c0e9 solid;
     margin: 3% 0px -4px 0px;
 }
 .caution-sign{
@@ -141,7 +141,7 @@ body{
 }
 h1{
     text-align: center;
-    background-color:#b8b7ec; 
+    background-color:#a5c0e9; 
     color: #4b4b4b; 
     font-family: "Palatino Linotype";
     padding: 1%;
@@ -166,7 +166,7 @@ p{
     line-height: 27px;
 }
 h2{
-    background-color:#b8b7ec; color: #4b4b4b; 
+    background-color:#a5c0e9; color: #4b4b4b; 
     font-family: "Palatino Linotype"; 
     font-weight: bold; 
     text-align:center; 
@@ -199,13 +199,13 @@ a:hover{
 #HolidayInnImage1{
     float:right;
     margin: 8px 10% 8px 15px;
-    border: 2px #b8b7ec solid;
+    border: 2px #a5c0e9 solid;
     width:40%;
 }
 #MonteCarloInnImage1{
     float:right;
     margin: 8px 10% 8px 15px;
-    border: 2px #b8b7ec solid;
+    border: 2px #a5c0e9 solid;
     width: 40%;
 }
 #MonteCarloInn{
@@ -216,24 +216,24 @@ a:hover{
 }
 #PartyBus{
     margin: 5px 24%;
-    border: 7px #b8b7ec solid;
+    border: 7px #a5c0e9 solid;
 }
 #VenueRoom1{
     float:right;
     width: 40%;
-    border: 2px #b8b7ec solid;
+    border: 2px #a5c0e9 solid;
     margin: 5px 10% 5px 5px;
 }
 #VenueRoom2{
     float:left;
     width: 30%;
-    border: 2px #b8b7ec solid;
+    border: 2px #a5c0e9 solid;
     margin: 5px 40px 5px 13%;
 }
 #VenueRoom3{
     float:right;
     width: 25%;
-    border: 2px #b8b7ec solid;
+    border: 2px #a5c0e9 solid;
     margin: 5px 10% 5px 5px;
 }
 .return{

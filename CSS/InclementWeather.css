@@ -3,7 +3,7 @@ body{
     margin:0px;
 }
 h1{
-    background-color:#b8b7ec; 
+    background-color:#a5c0e9; 
     color: #4b4b4b; 
     font-family: "Palatino Linotype"; 
     font-size: 25px; 
@@ -15,7 +15,7 @@ h1{
 }
 a:hover{color:#375a81}
 h2{
-    background-color:#b8b7ec; color: #4b4b4b; 
+    background-color:#a5c0e9; color: #4b4b4b; 
     font-family: "Palatino Linotype"; 
     font-weight: bold; 
     text-align:left; 
@@ -39,7 +39,7 @@ p{
     float: right; 
     margin: 5px 10% 4px 15px; 
     box-sizing:border-box; 
-    border: 5px #b8b7ec solid;
+    border: 5px #a5c0e9 solid;
 }
 #intro-paragraph1{
     text-align: center;
@@ -48,7 +48,7 @@ p{
     float:right; 
     margin: 5px 10% 5px 15px; 
     box-sizing:border-box; 
-    border: 5px #b8b7ec solid; 
+    border: 5px #a5c0e9 solid; 
 }
 ul{
     font-family:"Palatino Linotype"; 
@@ -62,7 +62,7 @@ hr{
     margin: 10px 10% 10px 13%; 
 }
 .topnavFlorida{
-    background-color: #b8b7ec;
+    background-color: #a5c0e9;
     overflow: hidden;
     margin: 0px;
     padding: 0px;
