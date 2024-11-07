@@ -160,13 +160,3 @@ h4{
     margin:5px 10% 5px 13%;
     font-size: large;
 }
-a:hover{
-    color:#375a81
-}
-.return a:hover{
-    color:#375a81
-}
-.return a{
-    text-decoration: none;
-    color:#333350
-}
