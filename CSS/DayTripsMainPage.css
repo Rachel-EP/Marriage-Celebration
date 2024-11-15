@@ -160,3 +160,13 @@ h4{
     margin:5px 10% 5px 13%;
     font-size: large;
 }
+#Form{
+    background-color:#d7e3f5; 
+    color: #4b4b4b; 
+    font-family: "Palatino Linotype"; 
+    font-weight: normal;
+    text-align:center; 
+    padding:5px; 
+    border:1px rgb(114, 114, 114) solid; 
+    margin:5px 40% 5px 40%;
+}
