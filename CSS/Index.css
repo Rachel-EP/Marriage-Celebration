@@ -135,6 +135,66 @@ body{
 .TransportationSideBar a:hover{
     color:#375a81;
 }
+.CelebrationFloridaSideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.CelebrationFloridaSideBar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: normal;
+    color:#26274b;
+    display: block;
+}
+.CelebrationFloridaSideBar a:hover{
+    color:#375a81;
+}
+.CelebrationFloridaSideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.CelebrationCanadaSideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.CelebrationCanadaSideBar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: normal;
+    color:#26274b;
+    display: block;
+}
+.CelebrationCanadaSideBar a:hover{
+    color:#375a81;
+}
+.CelebrationCanadaSideBar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
 .FloralBackground{
     border-bottom: 2px #a5c0e9 solid;
     margin: -17% 0px -4px 0px;
