@@ -39,7 +39,7 @@ body{
     float: center;
     color: #26274b;
     text-align: center;
-    padding: 1% 4.5%;
+    padding: 1% 3.7%;
     text-decoration: none;
     font-size: 1.3vw;
     font-family: "Palatino Linotype";
@@ -194,6 +194,26 @@ body{
     background: #d4d4d4;
     overflow-x: hidden;
     padding: 8px 0;
+}
+.FAQCANsidebar{
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 10px;
+    background: #d4d4d4;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+.FAQCANsidebar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: normal;
+    color:#333350;
+    display: block;
+}
+.FAQCANsidebar a:hover{
+    color:#375a81;
 }
 .FloralBackground{
     border-bottom: 2px #a5c0e9 solid;
